@@ -1,10 +1,7 @@
-# editor
+# agriculture-node
 
-> A Vue.js project
+> nodejs+mongodb+mongoose+express
 
-## 图片展示
+## 描述
 
-![image](https://github.com/bailingshiva/vue-aker-edit/blob/master/static/bianjikuan.png)
-
-## npm地址
-https://www.npmjs.com/package/vue-aker-edit
+> 包含一般增删查操作，图片上传等功能
